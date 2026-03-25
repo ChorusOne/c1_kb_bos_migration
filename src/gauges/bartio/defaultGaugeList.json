@@ -1,0 +1,85 @@
+{
+  "name": "Berachain Bartio Default Gauge List",
+  "products": [
+    {
+      "name": "HONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
+      "url": "https://bartio.honey.berachain.com",
+      "description": "A stablecoin that's integral to the Berachain ecosystem. Utilize HONEY for seamless trading, ensuring value consistency."
+    },
+    {
+      "name": "BEX",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bex.png",
+      "url": "https://bartio.bex.berachain.com",
+      "description": "Swap a variety of tokens effortlessly on our decentralized platform. Provide liquidity to pools and earn BGT rewards."
+    },
+    {
+      "name": "BEND",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bend.png",
+      "url": "https://bartio.bend.berachain.com",
+      "description": "Supply assets and unlock the potential to borrow HONEY. Earn BGT rewards while you supply and borrow."
+    },
+    {
+      "name": "BERPS",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/berps.png",
+      "url": "https://bartio.berps.berachain.com",
+      "description": "Experience the thrill of high leverage trading, tailored for both novices and seasoned traders. With an impressive 100x leverage."
+    }
+  ],
+  "gauges": [
+    {
+      "receiptTokenAddress": "0x1339503343be5626B40Ee3Aee12a4DF50Aa4C0B9",
+      "vaultAddress": "0x2E8410239bB4b099EE2d5683e3EF9d6f04E321CC",
+      "name": "VDHONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ahoney.png",
+      "product": "BEND",
+      "url": "https://bartio.bend.berachain.com/dashboard",
+      "support": false
+    },
+    {
+      "receiptTokenAddress": "0x1306D3c36eC7E38dd2c128fBe3097C2C2449af64",
+      "vaultAddress": "0xC5Cb3459723B828B3974f7E58899249C2be3B33d",
+      "name": "BHONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bhoneyg.png",
+      "product": "BERPS",
+      "url": "https://bartio.berps.berachain.com/vault"
+    },
+    {
+      "receiptTokenAddress": "0xd28d852cbcc68DCEC922f6d5C7a8185dBaa104B7",
+      "vaultAddress": "0xad57d7d39a487c04a44d3522b910421888fb9c6d",
+      "name": "HONEY-WBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honeybera.png",
+      "product": "BEX",
+      "url": "https://bartio.bex.berachain.com/pool/0xd28d852cbcc68DCEC922f6d5C7a8185dBaa104B7"
+    },
+    {
+      "receiptTokenAddress": "0xD69ADb6FB5fD6D06E6ceEc5405D95A37F96E3b96",
+      "vaultAddress": "0xe3b9B72ba027FD6c514C0e5BA075Ac9c77C23Afa",
+      "name": "HONEY-USDC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/HONEY-USDC.png",
+      "product": "BEX",
+      "url": "https://bartio.bex.berachain.com/pool/0xD69ADb6FB5fD6D06E6ceEc5405D95A37F96E3b96"
+    },
+    {
+      "receiptTokenAddress": "0x50f7d4Da89F720FBFB35bE369F34c6b51e2CaDa1",
+      "vaultAddress": "0x38d2A764185197484F744C0bAA06a38a2ee31876",
+      "name": "HONEY-WETH",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/HONEY-WETH.png",
+      "product": "BEX",
+      "url": "https://bartio.bex.berachain.com/pool/0x50f7d4Da89F720FBFB35bE369F34c6b51e2CaDa1"
+    },
+    {
+      "receiptTokenAddress": "0x14ee0a8dcd1714781aa0d026f46fc7f77b73c01d",
+      "vaultAddress": "0x59F735C465D9972b57BCcD8339de25cA209CA044",
+      "name": "HONEY-WBTC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/HONEY-WBTC.png",
+      "product": "BEX",
+      "url": "https://bartio.bex.berachain.com/pool/0x14ee0a8dcd1714781aa0d026f46fc7f77b73c01d"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  }
+}
