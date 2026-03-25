@@ -121,9 +121,9 @@
 * [Overview](api-reference/overview.md)
 * [Solana Rewards API](api-reference/solana-rewards-api/README.md)
   * ```yaml
-    type: builtin:openapi
     props:
       models: true
+    type: builtin:openapi
     dependencies:
       spec:
         ref:
@@ -132,9 +132,9 @@
     ```
 * [Ethereum Rewards API](api-reference/ethereum-rewards-api/README.md)
   * ```yaml
-    type: builtin:openapi
     props:
       models: true
+    type: builtin:openapi
     dependencies:
       spec:
         ref:
@@ -143,9 +143,9 @@
     ```
 * [Ton Rewards API](api-reference/ton-rewards-api/README.md)
   * ```yaml
-    type: builtin:openapi
     props:
       models: true
+    type: builtin:openapi
     dependencies:
       spec:
         ref:
@@ -180,6 +180,7 @@
   * [Using Fireblocks with OPUS Pool](https://kb.chorus.one/our-products/opus-pool/using-fireblocks-with-opus-pool)
 * [Staking from Fordefi](custodians/staking-from-fordefi.md)
 * [Staking from HexTrust](custodians/staking-from-hextrust.md)
+* [Test Syncing Page](custodians/test-syncing-page.md)
 
 ## Working with Chorus One
 
