@@ -10,4 +10,6 @@ description: >-
 
 **I've created a private repo under the C1 GitHub workspace for syncing with Claude and will keep permission isolated to this repo only.**&#x20;
 
-Nathan - March 25th
+## Update: Cloned to local machine via GitHub desktop, this is how Claude integration will work. 
+
+Nathan - March 25th, 2026
