@@ -1,8 +1,13 @@
-### Context
+---
+description: >-
+  This is a backup workspace of the C1 KB with Github Sync enabled in a separate
+  repo.
+---
 
-This GitHub repo contains Nathan's personal repo for syncing a backup copy of the Chorus One Knowledge Base (C1 KB) to GitHub.
-I sincerely hope my creation of this repo did not cause a panic attack for anyone. 
+# Context - Merge March 25th
 
-To my knowledge it should not be interacting with anything else except for the C1 KB that is syncging to it. 
-Found at: 
---> https://app.gitbook.com/o/pEq7DqIRRV63MeJ6sKVS/s/xZQhlXRNZpEqxolU5s4f/bitwise-website-migrattion/context-merge-march-25th
+**For a merger KB overhaul that ends in possibly HTML/Markdown export for the bew Bitwise website, the GitHub sync route was worth the extra setup.**&#x20;
+
+**I've created a private repo under the C1 GitHub workspace for syncing with Claude and will keep permission isolated to this repo only.**&#x20;
+
+Nathan - March 25th
